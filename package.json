@@ -1,0 +1,25 @@
+{
+  "name": "npm-calculator",
+  "version": "1.0.1",
+  "description": "This is a demo npm-calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node specs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arvindr21/npm-calculator.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Arvind Ravulavaru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arvindr21/npm-calculator/issues"
+  },
+  "homepage": "https://github.com/arvindr21/npm-calculator",
+  "devDependencies": {
+    "jasmine-node": "~1.13.1"
+  }
+}
